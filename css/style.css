@@ -1,0 +1,10 @@
+.box{
+	margin-bottom: 5px;
+	width: 167px;
+	height: 167px;
+	border-radius: 50%;
+    background-color: red;
+}
+.h_300{
+	height: 300px;
+}
